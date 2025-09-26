@@ -16,3 +16,4 @@ export { default as polski } from "../lang/polski.json" with { type: "json" }
 export { default as portugues_pt } from "../lang/portugues_pt.json" with { type: "json" }
 export { default as suomi } from "../lang/suomi.json" with { type: "json" }
 export { default as corporate_english } from "../lang/corporate english.json" with { type: "json" }
+export { default as chinese } from "../lang/chinese.json" with { type: "json" }
