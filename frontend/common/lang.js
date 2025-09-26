@@ -16,6 +16,7 @@ import {
     portugues_pt,
     suomi,
     corporate_english,
+    chinese,
 } from "./lang_imports.js"
 
 const without_empty_keys = (obj) => {
